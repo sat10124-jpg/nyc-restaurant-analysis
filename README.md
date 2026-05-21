@@ -12,7 +12,6 @@ This Project analyzes the NYC OPen Data DOHMH Restaurant Inspection Results to u
 * **Python** 
 * **Pandas**
 * **Matplotlib & Seaborn** (Data Visualizaiton)
-* **GitHub Copilot** (Development Acceleration and Code Optimization)
 
 ## How to Run
 

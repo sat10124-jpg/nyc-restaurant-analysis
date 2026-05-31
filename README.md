@@ -1,7 +1,7 @@
 # NYC Restaurant Health Inspection Analysis 
 
 # Project OVerview 
-This Project analyzes the NYC OPen Data DOHMH Restaurant Inspection Results to uncover trends in health violations across the five boroughs with a  specific focus on  identifying pest-related compliance patterns 
+This Project analyzes the NYC Open Data DOHMH Restaurant Inspection Results to uncover trends in health violations across the five boroughs with a  specific focus on  identifying pest-related compliance patterns 
 
 # Key Insights 
 * While Manhattan has the highest gross number of critical health violations due to restaurant density, **Queens exhibits a higher percentage of pest-related violations (34.54%)** compared to Manhattan (32.76%).
